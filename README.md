@@ -1,4 +1,8 @@
 # countermappingweb.github.io
-git add --all
-git commit -m "Initial commit"
-git push -u origin main
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Hello World</h1>
+<p>I'm hosted with GitHub Pages.</p>
+</body>
+</html>
